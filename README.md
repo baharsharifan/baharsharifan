@@ -1,4 +1,13 @@
-## Hi there 👋
+ ## Hi there 👋 
+سلام .من بهاره شریفان هستم 
+درباره من :
+توسعه دهنده نرم افزار با تخصص در {تکنولوزیها}
+علاقمند به هوش مصنوعی .توسعه وب وبرنامه نویسی متن باز 
+baharsharifan699@gmail.com
+baharsharifan
+=
+
+ 
 
 <!--
 **baharsharifan/baharsharifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
